@@ -1,0 +1,23 @@
+body{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    height: 100vh;
+    
+}
+
+html, body
+{
+    margin: 0px; padding: 0px;
+    display:flex;
+    flex-direction: column;
+}
+
+div{
+    display: inline;
+}
+
+.root{
+    display: flex;
+    align-items: center ;
+    flex-direction: column;
+}
